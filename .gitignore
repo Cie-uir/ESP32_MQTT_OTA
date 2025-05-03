@@ -1,0 +1,25 @@
+# Fichiers compilés et temporaires de l'Arduino IDE
+*.hex
+*.elf
+*.bin
+.build/
+build/
+*.tmp
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers de l'environnement de développement
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Fichiers d'environnement avec infos sensibles
+secrets.h
+private_config.h
+
+# Fichiers spécifiques à l'ESP32
+sdkconfig
+sdkconfig.old
