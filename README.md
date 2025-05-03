@@ -63,8 +63,8 @@ Une interface web HTML est également disponible pour contrôler l'ESP32 à dist
 
 ## Licence
 
-[Indiquez votre licence ici]
+Ce projet est sous licence MIT
 
 ## Auteur
 
-[Votre nom]
+Ali GOGO
